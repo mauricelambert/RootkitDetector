@@ -1,3 +1,5 @@
+![RootkitDetector Logo](https://mauricelambert.github.io/info/kernel/security/RootkitDetector_small.png "RootkitDetector logo")
+
 # Rootkit Detector
 
 ## Description
